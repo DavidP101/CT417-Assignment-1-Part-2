@@ -39,7 +39,7 @@
 	<dependency>
 	    <groupId>com.github.DavidP101</groupId>
 	    <artifactId>CT417-Assignment-1-Part-1</artifactId>
-	    <version>6fd3603e08</version>
+	    <version>881dd772aa</version>
 	</dependency>  
     </dependencies>
     <properties>
