@@ -39,8 +39,8 @@
 	<dependency>
 	    <groupId>com.github.DavidP101</groupId>
 	    <artifactId>CT417-Assignment-1-Part-1</artifactId>
-	    <version>881dd772aa</version>
-	</dependency>  
+	    <version>5bbd1bdffc</version>
+	</dependency> 
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
