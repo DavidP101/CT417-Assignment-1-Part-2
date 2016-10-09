@@ -29,17 +29,17 @@
       </plugin>
     </plugins>
   </build>
-	<repositories>
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-	</repositories>
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
     <dependencies>
 	<dependency>
 	    <groupId>com.github.DavidP101</groupId>
 	    <artifactId>CT417-Assignment-1-Part-1</artifactId>
-	    <version>de80ca5a49</version>
+	    <version>43c02843d3</version>
 	</dependency>
     </dependencies>
     <properties>
